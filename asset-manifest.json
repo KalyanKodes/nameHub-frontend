@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nameHub-frontend/static/css/main.83716a16.css",
+    "main.js": "/nameHub-frontend/static/js/main.e68a73fa.js",
+    "static/js/453.8ab44547.chunk.js": "/nameHub-frontend/static/js/453.8ab44547.chunk.js",
+    "index.html": "/nameHub-frontend/index.html",
+    "main.83716a16.css.map": "/nameHub-frontend/static/css/main.83716a16.css.map",
+    "main.e68a73fa.js.map": "/nameHub-frontend/static/js/main.e68a73fa.js.map",
+    "453.8ab44547.chunk.js.map": "/nameHub-frontend/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83716a16.css",
+    "static/js/main.e68a73fa.js"
+  ]
+}
